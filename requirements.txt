@@ -5,6 +5,3 @@ matplotlib
 seaborn
 scikit-learn
 imbalanced-learn
-SMOTE
-EDA
-CSV
